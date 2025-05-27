@@ -1,0 +1,17 @@
+C:\Users\natsu\AppData\Roaming\SPB_16.6\file-fetching-microservice\IdleCursor\IdleCursor\bin\Debug\net9.0-windows\IdleCursor.exe
+C:\Users\natsu\AppData\Roaming\SPB_16.6\file-fetching-microservice\IdleCursor\IdleCursor\bin\Debug\net9.0-windows\IdleCursor.deps.json
+C:\Users\natsu\AppData\Roaming\SPB_16.6\file-fetching-microservice\IdleCursor\IdleCursor\bin\Debug\net9.0-windows\IdleCursor.runtimeconfig.json
+C:\Users\natsu\AppData\Roaming\SPB_16.6\file-fetching-microservice\IdleCursor\IdleCursor\bin\Debug\net9.0-windows\IdleCursor.dll
+C:\Users\natsu\AppData\Roaming\SPB_16.6\file-fetching-microservice\IdleCursor\IdleCursor\bin\Debug\net9.0-windows\IdleCursor.pdb
+C:\Users\natsu\AppData\Roaming\SPB_16.6\file-fetching-microservice\IdleCursor\IdleCursor\obj\Debug\net9.0-windows\IdleCursor.Form1.resources
+C:\Users\natsu\AppData\Roaming\SPB_16.6\file-fetching-microservice\IdleCursor\IdleCursor\obj\Debug\net9.0-windows\IdleCursor.csproj.GenerateResource.cache
+C:\Users\natsu\AppData\Roaming\SPB_16.6\file-fetching-microservice\IdleCursor\IdleCursor\obj\Debug\net9.0-windows\IdleCursor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natsu\AppData\Roaming\SPB_16.6\file-fetching-microservice\IdleCursor\IdleCursor\obj\Debug\net9.0-windows\IdleCursor.AssemblyInfoInputs.cache
+C:\Users\natsu\AppData\Roaming\SPB_16.6\file-fetching-microservice\IdleCursor\IdleCursor\obj\Debug\net9.0-windows\IdleCursor.AssemblyInfo.cs
+C:\Users\natsu\AppData\Roaming\SPB_16.6\file-fetching-microservice\IdleCursor\IdleCursor\obj\Debug\net9.0-windows\IdleCursor.csproj.CoreCompileInputs.cache
+C:\Users\natsu\AppData\Roaming\SPB_16.6\file-fetching-microservice\IdleCursor\IdleCursor\obj\Debug\net9.0-windows\IdleCursor.sourcelink.json
+C:\Users\natsu\AppData\Roaming\SPB_16.6\file-fetching-microservice\IdleCursor\IdleCursor\obj\Debug\net9.0-windows\IdleCursor.dll
+C:\Users\natsu\AppData\Roaming\SPB_16.6\file-fetching-microservice\IdleCursor\IdleCursor\obj\Debug\net9.0-windows\refint\IdleCursor.dll
+C:\Users\natsu\AppData\Roaming\SPB_16.6\file-fetching-microservice\IdleCursor\IdleCursor\obj\Debug\net9.0-windows\IdleCursor.pdb
+C:\Users\natsu\AppData\Roaming\SPB_16.6\file-fetching-microservice\IdleCursor\IdleCursor\obj\Debug\net9.0-windows\IdleCursor.genruntimeconfig.cache
+C:\Users\natsu\AppData\Roaming\SPB_16.6\file-fetching-microservice\IdleCursor\IdleCursor\obj\Debug\net9.0-windows\ref\IdleCursor.dll
