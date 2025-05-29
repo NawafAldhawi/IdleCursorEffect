@@ -8,12 +8,15 @@ public partial class Form1 : Form
 {
 
     bool AFK = false;
-    
+    Overlay overlay = new Overlay();
     public Form1()
     {
         InitializeComponent();
-
-
+        this.Hide();
+        this.ShowInTaskbar = false;
+        this.BackColor = Color.Lime;
+        this.TransparencyKey = Color.Lime;
+        this.FormBorderStyle = FormBorderStyle.None;
     }
 
     [StructLayout(LayoutKind.Sequential)]
@@ -51,24 +54,9 @@ public partial class Form1 : Form
         if (GetCursorPos(out cursorPos))
         {
 
-            using (Graphics g = this.CreateGraphics())
-            {
-                Point formPos = this.PointToClient(new Point(cursorPos.X, cursorPos.Y));
+            overlay.ShowEffect(new Point(cursorPos.X, cursorPos.Y)); // ✅ screen coordinates
 
-                int radius = 50;
-                g.DrawEllipse(Pens.Red, formPos.X - radius / 2, formPos.Y - radius / 2, radius, radius);
-            }
-
-            Timer clearTimer = new Timer();
-            clearTimer.Interval = 2000;
-            clearTimer.Tick += (s, e) =>
-            {
-                clearTimer.Stop();
-                this.Invalidate(); // Triggers a repaint → clears drawing
-            };
-            clearTimer.Start();
         }
-
 
     }
 
@@ -83,7 +71,7 @@ public partial class Form1 : Form
         {
             uint AFKTime = ((uint)SystemUpTime - LastInputInfo.dwTime) / 1000;
             
-            if (AFKTime > 5)
+            if (AFKTime > 45)
             {
 
                 Console.WriteLine("User is AFK");

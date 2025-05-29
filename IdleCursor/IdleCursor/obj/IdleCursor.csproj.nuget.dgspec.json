@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\natsu\\AppData\\Roaming\\SPB_16.6\\file-fetching-microservice\\IdleCursor\\IdleCursor\\IdleCursor.csproj": {}
+    "C:\\Users\\natsu\\Documents\\GitHub\\IdleCursorEffect\\IdleCursor\\IdleCursor\\IdleCursor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\natsu\\AppData\\Roaming\\SPB_16.6\\file-fetching-microservice\\IdleCursor\\IdleCursor\\IdleCursor.csproj": {
+    "C:\\Users\\natsu\\Documents\\GitHub\\IdleCursorEffect\\IdleCursor\\IdleCursor\\IdleCursor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\natsu\\AppData\\Roaming\\SPB_16.6\\file-fetching-microservice\\IdleCursor\\IdleCursor\\IdleCursor.csproj",
+        "projectUniqueName": "C:\\Users\\natsu\\Documents\\GitHub\\IdleCursorEffect\\IdleCursor\\IdleCursor\\IdleCursor.csproj",
         "projectName": "IdleCursor",
-        "projectPath": "C:\\Users\\natsu\\AppData\\Roaming\\SPB_16.6\\file-fetching-microservice\\IdleCursor\\IdleCursor\\IdleCursor.csproj",
+        "projectPath": "C:\\Users\\natsu\\Documents\\GitHub\\IdleCursorEffect\\IdleCursor\\IdleCursor\\IdleCursor.csproj",
         "packagesPath": "C:\\Users\\natsu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\natsu\\AppData\\Roaming\\SPB_16.6\\file-fetching-microservice\\IdleCursor\\IdleCursor\\obj\\",
+        "outputPath": "C:\\Users\\natsu\\Documents\\GitHub\\IdleCursorEffect\\IdleCursor\\IdleCursor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,29 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\natsu\\AppData\\Roaming\\SPB_16.6\\file-fetching-microservice\\IdleCursor\\",
+  "WorkspaceRootPath": "C:\\Users\\natsu\\Documents\\GitHub\\IdleCursorEffect\\IdleCursor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14F19E86-5474-406D-9593-41B940B6CFDC}|IdleCursor\\IdleCursor.csproj|c:\\users\\natsu\\appdata\\roaming\\spb_16.6\\file-fetching-microservice\\idlecursor\\idlecursor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14F19E86-5474-406D-9593-41B940B6CFDC}|IdleCursor\\IdleCursor.csproj|c:\\users\\natsu\\documents\\github\\idlecursoreffect\\idlecursor\\idlecursor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14F19E86-5474-406D-9593-41B940B6CFDC}|IdleCursor\\IdleCursor.csproj|solutionrelative:idlecursor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14F19E86-5474-406D-9593-41B940B6CFDC}|IdleCursor\\IdleCursor.csproj|c:\\users\\natsu\\appdata\\roaming\\spb_16.6\\file-fetching-microservice\\idlecursor\\idlecursor\\idlecursor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{14F19E86-5474-406D-9593-41B940B6CFDC}|IdleCursor\\IdleCursor.csproj|solutionrelative:idlecursor\\idlecursor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{14F19E86-5474-406D-9593-41B940B6CFDC}|IdleCursor\\IdleCursor.csproj|c:\\users\\natsu\\documents\\github\\idlecursoreffect\\idlecursor\\idlecursor\\overlay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F19E86-5474-406D-9593-41B940B6CFDC}|IdleCursor\\IdleCursor.csproj|solutionrelative:idlecursor\\overlay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14F19E86-5474-406D-9593-41B940B6CFDC}|IdleCursor\\IdleCursor.csproj|c:\\users\\natsu\\appdata\\roaming\\spb_16.6\\file-fetching-microservice\\idlecursor\\idlecursor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{14F19E86-5474-406D-9593-41B940B6CFDC}|IdleCursor\\IdleCursor.csproj|c:\\users\\natsu\\documents\\github\\idlecursoreffect\\idlecursor\\idlecursor\\overlay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F19E86-5474-406D-9593-41B940B6CFDC}|IdleCursor\\IdleCursor.csproj|solutionrelative:idlecursor\\overlay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F19E86-5474-406D-9593-41B940B6CFDC}|IdleCursor\\IdleCursor.csproj|C:\\Users\\natsu\\Documents\\GitHub\\IdleCursorEffect\\IdleCursor\\idlecursor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{14F19E86-5474-406D-9593-41B940B6CFDC}|IdleCursor\\IdleCursor.csproj|solutionrelative:idlecursor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14F19E86-5474-406D-9593-41B940B6CFDC}|IdleCursor\\IdleCursor.csproj|c:\\users\\natsu\\appdata\\roaming\\spb_16.6\\file-fetching-microservice\\idlecursor\\idlecursor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14F19E86-5474-406D-9593-41B940B6CFDC}|IdleCursor\\IdleCursor.csproj|solutionrelative:idlecursor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14F19E86-5474-406D-9593-41B940B6CFDC}|IdleCursor\\IdleCursor.csproj|C:\\Users\\natsu\\Documents\\GitHub\\IdleCursorEffect\\IdleCursor\\idlecursor\\overlay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14F19E86-5474-406D-9593-41B940B6CFDC}|IdleCursor\\IdleCursor.csproj|solutionrelative:idlecursor\\overlay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14F19E86-5474-406D-9593-41B940B6CFDC}|IdleCursor\\IdleCursor.csproj|c:\\users\\natsu\\appdata\\roaming\\spb_16.6\\file-fetching-microservice\\idlecursor\\idlecursor\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14F19E86-5474-406D-9593-41B940B6CFDC}|IdleCursor\\IdleCursor.csproj|c:\\users\\natsu\\documents\\github\\idlecursoreffect\\idlecursor\\idlecursor\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14F19E86-5474-406D-9593-41B940B6CFDC}|IdleCursor\\IdleCursor.csproj|solutionrelative:idlecursor\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14F19E86-5474-406D-9593-41B940B6CFDC}|IdleCursor\\IdleCursor.csproj|c:\\users\\natsu\\appdata\\roaming\\spb_16.6\\file-fetching-microservice\\idlecursor\\idlecursor\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "AbsoluteMoniker": "D:0:0:{14F19E86-5474-406D-9593-41B940B6CFDC}|IdleCursor\\IdleCursor.csproj|c:\\users\\natsu\\documents\\github\\idlecursoreffect\\idlecursor\\idlecursor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F19E86-5474-406D-9593-41B940B6CFDC}|IdleCursor\\IdleCursor.csproj|solutionrelative:idlecursor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F19E86-5474-406D-9593-41B940B6CFDC}|IdleCursor\\IdleCursor.csproj|c:\\users\\natsu\\documents\\github\\idlecursoreffect\\idlecursor\\idlecursor\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{14F19E86-5474-406D-9593-41B940B6CFDC}|IdleCursor\\IdleCursor.csproj|solutionrelative:idlecursor\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     }
   ],
@@ -40,11 +48,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\natsu\\AppData\\Roaming\\SPB_16.6\\file-fetching-microservice\\IdleCursor\\IdleCursor\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\natsu\\Documents\\GitHub\\IdleCursorEffect\\IdleCursor\\IdleCursor\\Form1.cs",
               "RelativeDocumentMoniker": "IdleCursor\\Form1.cs",
-              "ToolTip": "C:\\Users\\natsu\\AppData\\Roaming\\SPB_16.6\\file-fetching-microservice\\IdleCursor\\IdleCursor\\Form1.cs",
+              "ToolTip": "C:\\Users\\natsu\\Documents\\GitHub\\IdleCursorEffect\\IdleCursor\\IdleCursor\\Form1.cs",
               "RelativeToolTip": "IdleCursor\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T11:52:02.683Z",
               "IsPinned": true,
@@ -56,65 +64,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IdleCursor",
-              "DocumentMoniker": "C:\\Users\\natsu\\AppData\\Roaming\\SPB_16.6\\file-fetching-microservice\\IdleCursor\\IdleCursor\\IdleCursor.csproj",
-              "RelativeDocumentMoniker": "IdleCursor\\IdleCursor.csproj",
-              "ToolTip": "C:\\Users\\natsu\\AppData\\Roaming\\SPB_16.6\\file-fetching-microservice\\IdleCursor\\IdleCursor\\IdleCursor.csproj",
-              "RelativeToolTip": "IdleCursor\\IdleCursor.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-27T12:57:06.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\natsu\\AppData\\Roaming\\SPB_16.6\\file-fetching-microservice\\IdleCursor\\IdleCursor\\Form1.cs",
-              "RelativeDocumentMoniker": "IdleCursor\\Form1.cs",
-              "ToolTip": "C:\\Users\\natsu\\AppData\\Roaming\\SPB_16.6\\file-fetching-microservice\\IdleCursor\\IdleCursor\\Form1.cs [Design]",
-              "RelativeToolTip": "IdleCursor\\Form1.cs [Design]",
+              "Title": "Overlay.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\natsu\\Documents\\GitHub\\IdleCursorEffect\\IdleCursor\\IdleCursor\\Overlay.Designer.cs",
+              "RelativeDocumentMoniker": "IdleCursor\\Overlay.Designer.cs",
+              "ToolTip": "C:\\Users\\natsu\\Documents\\GitHub\\IdleCursorEffect\\IdleCursor\\IdleCursor\\Overlay.Designer.cs",
+              "RelativeToolTip": "IdleCursor\\Overlay.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T11:49:14.82Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-28T04:16:53Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.resx",
-              "DocumentMoniker": "C:\\Users\\natsu\\AppData\\Roaming\\SPB_16.6\\file-fetching-microservice\\IdleCursor\\IdleCursor\\Form1.resx",
-              "RelativeDocumentMoniker": "IdleCursor\\Form1.resx",
-              "ToolTip": "C:\\Users\\natsu\\AppData\\Roaming\\SPB_16.6\\file-fetching-microservice\\IdleCursor\\IdleCursor\\Form1.resx",
-              "RelativeToolTip": "IdleCursor\\Form1.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-05-27T11:48:43.779Z",
+              "DocumentIndex": 1,
+              "Title": "Overlay.cs",
+              "DocumentMoniker": "C:\\Users\\natsu\\Documents\\GitHub\\IdleCursorEffect\\IdleCursor\\IdleCursor\\Overlay.cs",
+              "RelativeDocumentMoniker": "IdleCursor\\Overlay.cs",
+              "ToolTip": "C:\\Users\\natsu\\Documents\\GitHub\\IdleCursorEffect\\IdleCursor\\IdleCursor\\Overlay.cs",
+              "RelativeToolTip": "IdleCursor\\Overlay.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wCkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T03:56:32.34Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\natsu\\AppData\\Roaming\\SPB_16.6\\file-fetching-microservice\\IdleCursor\\IdleCursor\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "IdleCursor\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\natsu\\AppData\\Roaming\\SPB_16.6\\file-fetching-microservice\\IdleCursor\\IdleCursor\\Form1.Designer.cs",
-              "RelativeToolTip": "IdleCursor\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABRAAAAAAAAAA==",
+              "Title": "Overlay.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\natsu\\Documents\\GitHub\\IdleCursorEffect\\IdleCursor\\IdleCursor\\Overlay.cs",
+              "RelativeDocumentMoniker": "IdleCursor\\Overlay.cs",
+              "ToolTip": "C:\\Users\\natsu\\Documents\\GitHub\\IdleCursorEffect\\IdleCursor\\IdleCursor\\Overlay.cs [Design]",
+              "RelativeToolTip": "IdleCursor\\Overlay.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T11:47:54.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T03:55:37.089Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\natsu\\Documents\\GitHub\\IdleCursorEffect\\IdleCursor\\IdleCursor\\Form1.cs",
+              "RelativeDocumentMoniker": "IdleCursor\\Form1.cs",
+              "ToolTip": "C:\\Users\\natsu\\Documents\\GitHub\\IdleCursorEffect\\IdleCursor\\IdleCursor\\Form1.cs [Design]",
+              "RelativeToolTip": "IdleCursor\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:49:14.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\natsu\\Documents\\GitHub\\IdleCursorEffect\\IdleCursor\\IdleCursor\\Form1.resx",
+              "RelativeDocumentMoniker": "IdleCursor\\Form1.resx",
+              "ToolTip": "C:\\Users\\natsu\\Documents\\GitHub\\IdleCursorEffect\\IdleCursor\\IdleCursor\\Form1.resx",
+              "RelativeToolTip": "IdleCursor\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-27T11:48:43.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\natsu\\Documents\\GitHub\\IdleCursorEffect\\IdleCursor\\IdleCursor\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "IdleCursor\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\natsu\\Documents\\GitHub\\IdleCursorEffect\\IdleCursor\\IdleCursor\\Form1.Designer.cs",
+              "RelativeToolTip": "IdleCursor\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:47:54.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\natsu\\AppData\\Roaming\\SPB_16.6\\file-fetching-microservice\\IdleCursor\\IdleCursor\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\natsu\\Documents\\GitHub\\IdleCursorEffect\\IdleCursor\\IdleCursor\\Program.cs",
               "RelativeDocumentMoniker": "IdleCursor\\Program.cs",
-              "ToolTip": "C:\\Users\\natsu\\AppData\\Roaming\\SPB_16.6\\file-fetching-microservice\\IdleCursor\\IdleCursor\\Program.cs",
+              "ToolTip": "C:\\Users\\natsu\\Documents\\GitHub\\IdleCursorEffect\\IdleCursor\\IdleCursor\\Program.cs",
               "RelativeToolTip": "IdleCursor\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T11:47:11.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T11:47:11.226Z"
             }
           ]
         }
